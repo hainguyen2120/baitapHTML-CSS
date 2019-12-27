@@ -1,0 +1,58 @@
+body{
+    font-family: Verdana;
+    color: #aaaaaa;
+}
+
+header{
+    background-color: #e5e5e5;
+    padding: 10px;
+    text-align: center;
+}
+
+.menu {
+    text-align: center;
+    padding: 0 10px 0 0 ;
+}
+
+.menu a{
+    background-color: #e5e5e5;
+    padding: 8px;
+    margin-top: 7px;
+    display: block;
+    color: black;
+}
+
+.main {
+    padding: 10px 7px 10px 7px;
+    background-color: #fafafa;
+}
+
+.right {
+    background-color: #e5e5e5;
+    padding: 0 0 0 10px;
+    margin-top: 7px;
+    text-align: center;
+}
+
+footer {
+    background-color: #e5e5e5;
+    text-align: center;
+    padding: 5px;
+    margin-top: 7px;
+
+}
+
+.box {
+    padding: 5px;
+}
+
+.link p{
+    color: black;
+    text-decoration: none;
+}
+
+.link span{
+    color: #8c8c8c;
+    text-decoration: none;
+}
+
